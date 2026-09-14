@@ -1,2 +1,10 @@
 # Dissertation
 Materials for 2027 Dissertation
+To run the code for this dissertation, please follow the following sequence:
+RUN STEP_1_CLEAN_DATA.ipynb 
+RUN STEP_2_FEATURE_ENGINEERING.ipynb
+RUN STEP_3_ENCODING_CATEGORICAL_DATA.ipynb
+RUN STEP_4_TRAIN_TEST_TEMPORAL_SPLIT.ipynb
+RUN STEP_5_STATE_SPACE_DISCRETIZATION.ipynb
+RUN STEP_6_Q_LEARNING_IMPLEMENTATION.ipynb
+RUN STEP_7_SARSA_IMPLEMENTATION.ipynb
